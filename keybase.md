@@ -2,7 +2,7 @@
 
 I hereby claim:
 
-  * I am ok8863 on github.
+  * I am jeffcfchang on github.
   * I am testjeff (https://keybase.io/testjeff) on keybase.
   * I have a public key ASDPX3InQgH_nrBWYq5qFwrgUKz3LM8nHlv6blGhxtOUwQo
 
@@ -19,15 +19,15 @@ To claim this, I am signing this object:
       "username": "testjeff"
     },
     "merkle_root": {
-      "ctime": 1568093900,
-      "hash": "4b81f975c2cf626b532e24d0d74a5ada22730dbed599297fdfc2b3c897aed553c006c71f68ed1f82808560a85db3d8547e807a831537b92ce8dcaa34571fe390",
-      "hash_meta": "6d21f79ae241e6b6e60e25be51863163c57278a1d17116ffb0c3690ee9319235",
-      "seqno": 6321012
+      "ctime": 1568100040,
+      "hash": "a8623c4d6e7205796cea98e4a35371c03c041af2fc1b2c474677387de3f960e9ada3454bc35727a4aeee7f2f0aa167c6c8092776dd8520232c58e68232ca9bd8",
+      "hash_meta": "dc56bb63a47fb15d502fb252671371cc8dc357af9a3ede1c6a9dcb8f8cbcddcc",
+      "seqno": 6338866
     },
     "service": {
-      "entropy": "fHJWAyRFWC0gKWw6nJtw1hMQ",
+      "entropy": "YhGjmLuhBWrC03wyR3D1ZhV4",
       "name": "github",
-      "username": "ok8863"
+      "username": "jeffcfchang"
     },
     "type": "web_service_binding",
     "version": 2
@@ -36,10 +36,10 @@ To claim this, I am signing this object:
     "name": "keybase.io go client",
     "version": "4.4.0"
   },
-  "ctime": 1568093906,
+  "ctime": 1568100066,
   "expire_in": 504576000,
-  "prev": "c0009dfea7b848ac16bcb0c3ea1841bf65b5d179772296c03cd75baffbc1ac38",
-  "seqno": 19,
+  "prev": "1858a6f7e20b6f850086b666149c9543ec75a940018ce220fde944b91bbbd9c6",
+  "seqno": 23,
   "tag": "signature"
 }
 ```
@@ -47,7 +47,7 @@ To claim this, I am signing this object:
 with the key [ASDPX3InQgH_nrBWYq5qFwrgUKz3LM8nHlv6blGhxtOUwQo](https://keybase.io/testjeff), yielding the signature:
 
 ```
-hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgz19yJ0IB/56wVmKuahcK4FCs9yzPJx5b+m5RocbTlMEKp3BheWxvYWTESpcCE8QgwACd/qe4SKwWvLDD6hhBv2W10Xl3IpbAPNdbr/vBrDjEINnsHZNI5s8/Mt0CwEDRU5kV4rjGveN/zWv2nEk9zyjgAgHCo3NpZ8RAdAn3lx8PWssiEngQxEkFtlM3QTHAV4G/2aPIE+dhx2uKrrduWmd3J+C7GNXyl7bKR+vTgpra8lqHR2Jpf3ctCqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIGw9Sn1EiotHgFeQ8mJZw9sS8YK+K/OSL0cK+WUpMrVNo3RhZ80CAqd2ZXJzaW9uAQ==
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgz19yJ0IB/56wVmKuahcK4FCs9yzPJx5b+m5RocbTlMEKp3BheWxvYWTESpcCF8QgGFim9+ILb4UAhrZmFJyVQ+x1qUABjOIg/elEuRu72cbEIHSUY2nYe4Y1inPlobMHtQOwGVnQC87P++aEsRDhUP+9AgHCo3NpZ8RA1KEXxvRvygeDE4HRQORWjTC80irltMAEKGnG10y34uunCbvgBjHIpGGt/texJFV40rfofhIfUmV8PxvSkVPfDqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIP1ZdbbzQMGWIpYCpmqlZRt4CcgC5Sxdpa1dxH5r/BFqo3RhZ80CAqd2ZXJzaW9uAQ==
 
 ```
 
